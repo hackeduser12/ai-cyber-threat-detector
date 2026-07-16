@@ -1,0 +1,6 @@
+{
+  "name": "AI Cyber Threat Detector",
+  "description": "An interactive machine learning framework that analyzes network traffic logs to detect anomalies and evaluate security threats in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
